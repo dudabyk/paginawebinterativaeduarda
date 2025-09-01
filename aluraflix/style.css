@@ -7,4 +7,12 @@ body {
 }
 header{
     border-bottom: solid 2px rgb(20, 20, 139);
+padding: 20px;
+font-size:32px;
+color:hsl(195, 53%, 79%);
+}
+section {
+    background-color: hsl(195, 94%, 37%);
+    padding-bottom: 80px
+    
 }
