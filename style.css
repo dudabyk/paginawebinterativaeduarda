@@ -1,5 +1,5 @@
 body {
-     color: rgb(92, 197, 197);
+     color: rgb(41, 158, 158);
      background: purple;
     margin 0px;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -9,10 +9,10 @@ header{
     border-bottom: solid 2px rgb(20, 20, 139);
 padding: 20px;
 font-size:32px;
-color:hsl(195, 53%, 79%);
+color:rgb(139, 202, 231)
 }
 section {
-    background-color: hsl(195, 94%, 37%);
+    background-color: hsl(195, 84%, 39%);
     padding-bottom: 80px
     display: flex;
     justify-content: center;
@@ -25,5 +25,28 @@ chamada-texto{
 
 }
 
-h1{font-size: 40px;
+h1{font-size: 20px;}
+
+p{font-size: 20px;}
+
 }
+    img{
+        height:200px;
+
+}
+    .categoria-videos{
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+
+
+
