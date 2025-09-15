@@ -11,9 +11,10 @@ padding: 20px;
 font-size:32px;
 color:rgb(139, 202, 231)
 }
-section {
+.chamada {
     background-color: hsl(195, 84%, 39%);
     padding-bottom: 80px
+    padding-top:80px
     display: flex;
     justify-content: center;
 
@@ -50,9 +51,9 @@ p{font-size: 20px;}
 
 }
 
-.categoria-videos img;:hover{
+.categoria-videos img:hover{
     opacity: 1.0;
-    border:3px solid crimson ;
+    border:3px solid rgb(8, 107, 165) ;
 }
 
 
