@@ -1,18 +1,18 @@
 body {
      color: rgb(41, 158, 158);
      background: purple;
-    margin 0px;
+     margin 0px;
     font-family:Georgia, 'Times New Roman', Times, serif;
 
 }
 header{
     border-bottom: solid 2px rgb(20, 20, 139);
-padding: 20px;
-font-size:32px;
-color:rgb(139, 202, 231)
+    padding: 20px;
+    font-size:32px;
+    color:rgb(139, 202, 231)
 }
 .chamada {
-    background-color: hsl(195, 84%, 39%);
+    background-color: rgb(12, 146, 163);
     padding-bottom: 80px
     padding-top:80px
     display: flex;
@@ -21,14 +21,16 @@ color:rgb(139, 202, 231)
     
 }
 
-chamada-texto{
+chamada-te}xto{
     margin-right: 5%;
 
 }
 
-h1{font-size: 20px;}
+h1
+{font-size: 20px;}
 
-p{font-size: 20px;}
+p
+{font-size: 20px;}
 
 
     img{
